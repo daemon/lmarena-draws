@@ -10,7 +10,7 @@ Code for the paper [Drawing Conclusions from Draws: Rethinking Draw Semantics in
 
 2. Clone the repository: `git clone ssh://git@github.com/daemon/lmarena-draws && cd lmarena-draws`
 
-3. Create and activate a virtual environment: `uv venv && source .venv/bin/activate`
+3. Create and activate a virtual environment: `uv venv --python 3.13 && source .venv/bin/activate`
 
 4. Install the package: `uv pip install -e .`
 
