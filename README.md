@@ -1,6 +1,6 @@
 # lmarena-draws
 
-Code for the paper [Drawing Conclusions from Draws: Rethinking Draw Semantics in Arena-Style LLM Evaluation]().
+Code for the paper [Drawing Conclusions from Draws: Rethinking Draw Semantics in Arena-Style LLM Evaluation](https://arxiv.org/abs/2510.02306).
 
 ## Getting Started
 
@@ -23,5 +23,10 @@ Run everything in the [paper notebook](notebooks/paper.ipynb).
 ## Citation
 
 ```
-
+@article{tang2025drawing,
+  title={Drawing Conclusions from Draws: Rethinking Preference Semantics in Arena-Style {LLM} Evaluation}, 
+  author={Raphael Tang and Crystina Zhang and Wenyan Li and Carmen Lai and Pontus Stenetorp and Yao Lu},
+  journal={arXiv:2510.02306},
+  year={2025}
+}
 ```
